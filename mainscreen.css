@@ -1,0 +1,19 @@
+body {
+    background: wheat;
+    text-align: center;
+}
+a: :hover{
+    color: red;
+}
+#topBar {
+    color: white;
+    background: black;
+    border: 6px ridge lightgray;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
+#poverty {
+    margin-top: 7%;
+    border: dotted purple 3px;
+}
